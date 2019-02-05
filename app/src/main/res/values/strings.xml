@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">UIDemo</string>
+    <string name="str_rel">Relative</string>
+    <string name="str_lin">Linear</string>
+    <string name="str_frame">Farme</string>
+    <string name="str_constraint">Constaint</string>
+    <string name="str_tab">Table</string>
+    <string name="str_table_row">TRow</string>
+
 </resources>
